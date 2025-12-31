@@ -17,7 +17,7 @@ The datasets span multiple years and quarters, providing a comprehensive view of
 - Visualization
 
 ## Key Insights
--Population Density vs Transactions:
+- Population Density vs Transactions:
 A moderate positive correlation (~0.43) exists between population density and total transactions. Densely populated areas generally record higher transaction volumes, but population alone does not explain usage. Other factors such as income levels, smartphone penetration, and digital awareness also influence transaction activity.
 
 -Overall Growth Trend:
